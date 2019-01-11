@@ -19,5 +19,9 @@
             </intent-filter>
         </activity>
     </application>
+    <uses-permission
+        android:name="android.permission.SET_WALLPAPER"
+        android:maxSdkVersion="27"
+        />
 
 </manifest>
